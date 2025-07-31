@@ -2,7 +2,7 @@
 
 回看读博期间研究的大模型技术，不得不说视野非常小。自从进入大厂基座模型组，深感工业界已经领先学术界一大截。开此贴记录工业界真实大模型训练和推理的方方面面，希望能够对在读的同学一些帮助，也是对自己学习知识的总结，帖子会不断更新。
 
-同步的Github更新链接为 https://github.com/monster119120/Industrial_LLM_tutorial，感兴趣的小伙伴可以一起创作。
+同步的Github更新链接为 [https://github.com/monster119120/Industrial_LLM_tutorial](https://github.com/monster119120/Industrial_LLM_tutorial)，感兴趣的小伙伴可以一起创作。
 
 # 摘要
 
