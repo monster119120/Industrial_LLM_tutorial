@@ -73,6 +73,7 @@
     - Torchtiton
     - FlashAttention 1/2/3
     - verl
+    - 算子优化
 
 ---
 
