@@ -93,6 +93,7 @@
     - 裁剪
     - 投机采样
     - 量化
+    - RAG（Retrieval Augmented Generation）
 
 - 大模型推理——infra
     - PD分离
