@@ -56,8 +56,8 @@
 
 - 大模型训练——算法
     - 长文
-        - [长文训练（一）位置编码基础理论](https://zhuanlan.zhihu.com/p/1933621399240569735)
-        - [长文训练（二）长文外扩](https://zhuanlan.zhihu.com/p/1934347535641715830)
+        - [大模型长文训练（一）位置编码基础理论](https://zhuanlan.zhihu.com/p/1933621399240569735)
+        - [大模型长文训练（二）长度外推](https://zhuanlan.zhihu.com/p/1934347535641715830)
     - MoE
     - Attention
     - Scaling Law
