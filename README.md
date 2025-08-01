@@ -4,6 +4,8 @@
 
 同步的Github更新链接为 [https://github.com/monster119120/Industrial_LLM_tutorial](https://github.com/monster119120/Industrial_LLM_tutorial)，感兴趣的小伙伴可以一起创作。
 
+为了方便大家收到更新，已开知乎专栏[大模型全栈记录](https://www.zhihu.com/column/c_1934673782448062552)
+
 # 摘要
 
 工业界的大模型，涉及的部分主要有：**数据**、**训练**、**推理部署**、**大模型应用**四个方面。
