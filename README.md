@@ -6,6 +6,10 @@
 
 为了方便大家收到更新，已开知乎专栏[大模型全栈记录](https://www.zhihu.com/column/c_1934673782448062552)
 
+同步的微信公众号
+**大模型全栈开发**
+欢迎关注。
+
 # 摘要
 
 工业界的大模型，涉及的部分主要有：**数据**、**训练**、**推理部署**、**大模型应用**四个方面。
@@ -62,7 +66,7 @@
         - [大模型长文训练（二）长度外推](https://zhuanlan.zhihu.com/p/1934347535641715830)
     - MoE
     - NSA (Native Sparse Attention)
-        - [Native Sparse Attention（一）图解](https://zhuanlan.zhihu.com/p/1934668007730290968)
+        - [五张图片看懂Native Sparse Attention（一）](https://zhuanlan.zhihu.com/p/1934668007730290968)
     - Attention
     - Scaling Law
     - LoRA
