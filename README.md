@@ -107,3 +107,7 @@
 ---
 
 > 本帖持续更新，欢迎关注交流！
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=monster119120/Industrial_LLM_tutorial&type=Date)](https://www.star-history.com/#monster119120/Industrial_LLM_tutorial&Date)
