@@ -60,6 +60,7 @@
         - [大模型长文训练（二）长度外推](https://zhuanlan.zhihu.com/p/1934347535641715830)
     - MoE
     - NSA (Native Sparse Attention)
+        - [Native Sparse Attention（一）图解](https://zhuanlan.zhihu.com/p/1934668007730290968)
     - Attention
     - Scaling Law
     - LoRA
