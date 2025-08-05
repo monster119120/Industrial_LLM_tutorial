@@ -66,6 +66,7 @@
     - 长文
         - [大模型长文训练（一）位置编码基础理论](https://zhuanlan.zhihu.com/p/1933621399240569735)
         - [大模型长文训练（二）长度外推](https://zhuanlan.zhihu.com/p/1934347535641715830)
+        - [大模型长文训练（三）YaRN代码详解](https://zhuanlan.zhihu.com/p/1936060892698613119)
     - MoE
     - NSA (Native Sparse Attention)
         - [五张图片看懂Native Sparse Attention（一）](https://zhuanlan.zhihu.com/p/1934668007730290968)
