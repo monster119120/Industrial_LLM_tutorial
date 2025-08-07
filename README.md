@@ -85,6 +85,8 @@
     - Torchtiton
     - FlashAttention 1/2/3
         - [五张图片看懂Flash Attention v1（一）](https://zhuanlan.zhihu.com/p/1936750158621676144)
+        - [Flash Attention v2（一）](https://zhuanlan.zhihu.com/p/1936809531221972067)
+        - [Flash Attention v3（一）](https://zhuanlan.zhihu.com/p/1936809729683861528)
     - verl
     - 算子优化
 
