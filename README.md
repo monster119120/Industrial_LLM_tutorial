@@ -2,15 +2,15 @@
 
 回看读博期间研究的大模型技术，不得不说视野非常小。自从进入大厂基座模型组，深感工业界已经领先学术界一大截。开此贴记录工业界真实大模型训练和推理的方方面面，希望能够对在读的同学一些帮助，也是对自己学习知识的总结，帖子会不断更新。
 
-同步的Github更新链接为 [https://github.com/monster119120/Industrial_LLM_tutorial](https://github.com/monster119120/Industrial_LLM_tutorial)，感兴趣的小伙伴可以一起创作。
+- 同步Github：[https://github.com/monster119120/Industrial_LLM_tutorial](https://github.com/monster119120/Industrial_LLM_tutorial)，感兴趣的小伙伴可以一起创作。
 
-为了方便大家收到更新，已开知乎专栏[大模型全栈记录](https://www.zhihu.com/column/c_1934673782448062552)
+- 同步知乎专栏：[大模型全栈记录](https://www.zhihu.com/column/c_1934673782448062552)
 
-同步的微信公众号
-**大模型全栈开发**
-欢迎关注。
+- 同步微信公众号：**大模型全栈开发**，欢迎关注。
 
-个人经历记录记录到了[博士之路](https://www.zhihu.com/column/c_1934959737918697853)，欢迎关注。
+- 个人经历：[博士之路](https://www.zhihu.com/column/c_1934959737918697853)，欢迎关注。
+
+- 🔥大模型论文阅读笔记知乎专栏：[大模型论文阅读笔记](https://www.zhihu.com/column/c_1934673782448062552)
 
 # 摘要
 
