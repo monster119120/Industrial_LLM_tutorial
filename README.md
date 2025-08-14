@@ -81,7 +81,7 @@
     - Megatron
         - [Megatron-LM（一）代码结构分析](https://zhuanlan.zhihu.com/p/1920265831364931803)
         - [Megatron-LM（二）代码运行流程](https://zhuanlan.zhihu.com/p/1920451187829900784)
-        - [Megatron-LM（二）代码运行流程](https://zhuanlan.zhihu.com/p/1939364867074160363)
+        - [Megatron-LM（三）代码调试指南](https://zhuanlan.zhihu.com/p/1939364867074160363)
     - Deepspeed
     - Torchtiton
     - FlashAttention 1/2/3
